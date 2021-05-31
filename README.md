@@ -18,7 +18,7 @@ Additionally we wanted to show people how much of a difference they make. So we 
 
 Should our Idea sound like something you would be interested in, have a look at our prototype:
 
-[Snow Rider v2.0 | Figma Demo Link](https://www.figma.com/proto/n1ghm4Ot2HHK1xbYoaRIGl/Snow-Rider-2.0?node-id=2%3A2&scaling=scale-down&page-id=0%3A1)
+[Snow Rider v2.0_Figma Demo Link](https://www.figma.com/proto/n1ghm4Ot2HHK1xbYoaRIGl/Snow-Rider-2.0?node-id=2%3A2&scaling=scale-down&page-id=0%3A1)
 
 You are of course also most welcome to browse through our wiki, to see how we progressed through this 3 month challange and developed our great idea:
 
