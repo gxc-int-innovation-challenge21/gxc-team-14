@@ -23,4 +23,5 @@ Should our idea sound like something you would be interested in, have a look at 
 You are of course also most welcome to browse through our wiki, to see how we progressed through this 3 month challenge and developed our great idea:
 
 [Snow Rider Wiki](https://github.com/gxc-int-innovation-challenge21/gxc-team-14/wiki)
+
 [GitHub Page](https://gxc-int-innovation-challenge21.github.io/gxc-team-14/)
