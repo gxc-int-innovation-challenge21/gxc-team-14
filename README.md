@@ -1,10 +1,4 @@
-<p>
-  <img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-14/blob/main/resources/Logos/Snow-Rider---Home.jpg" alt="SnowRider_Header">
-</p>
-
-![Header](https://imgur.com/ywAQSL5)
-
-![testbild](https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+![Header Public](https://i.imgur.com/oinwjjw.jpg)
 
 ## About SNOW RIDER
 
