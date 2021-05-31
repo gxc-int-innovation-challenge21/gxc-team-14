@@ -1,5 +1,6 @@
-![Header](https://github.com/gxc-int-innovation-challenge21/gxc-team-14/blob/main/resources/Logos/Snow-Rider---Home.jpg)
-
+<p>
+  <img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-14/blob/main/resources/Logos/Snow-Rider---Home.jpg" alt="SnowRider_Header">
+</p>
 # About SNOW RIDER
 
 Welcome to **SNOW RIDER's** repository. The team **GREEN SHAPERS** developed this app over the course of three months for the **Global Exchange Challenge**.
